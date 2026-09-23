@@ -135,7 +135,7 @@
       ],
       [
         "KC_F12",
-        "KC_DELETE",
+        "KC_PSCREEN",
         "KC_END",
         "KC_HOME",
         "KC_PGDOWN",
@@ -143,7 +143,7 @@
       ],
       [
         "KC_TRNS",
-        "KC_TRNS",
+        "KC_DELETE",
         "KC_RIGHT",
         "KC_UP",
         "KC_DOWN",
