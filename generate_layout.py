@@ -116,8 +116,9 @@ def decode(kc, tap_dances):
         n = int(m.group(1))
         td = tap_dances[n] if n < len(tap_dances) else ['KC_NO'] * 5
         tap_label = kc_name(td[0]) if td[0] != 'KC_NO' else ''
-        dtap_label, _, _ = decode(td[1], tap_dances) if td[1] not in ('KC_NO', '') else ('', None, None)
-        sub = f'2×{dtap_label}' if dtap_label else ''
+        # Vial order: [tap, hold, double_tap, tap_hold, timeout]
+        hold_label, _, _ = decode(td[1], tap_dances) if td[1] not in ('KC_NO', '') else ('', None, None)
+        sub = f'↓{hold_label}' if hold_label else ''
         raw = td[0] if td[0] != 'KC_NO' else kc
         return tap_label, sub, raw
 
@@ -297,8 +298,8 @@ def generate(data):
         td_html = (
             '<section class="extra" id="td"><h2>Tap Dances</h2>'
             '<table>'
-            '<tr><th>ID</th><th>Tap</th><th>2× Tap</th>'
-            '<th>Hold</th><th>Tap+Hold</th><th>Timeout</th></tr>'
+            '<tr><th>ID</th><th>Tap</th><th>Hold</th>'
+            '<th>2× Tap</th><th>Tap+Hold</th><th>Timeout</th></tr>'
             + rows + '</table></section>'
         )
 
