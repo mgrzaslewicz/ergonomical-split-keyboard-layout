@@ -925,39 +925,18 @@
       "KC_NO"
     ],
     [
-      "KC_F",
-      "KC_G",
       "KC_NO",
       "KC_NO",
-      "KC_LBRACKET"
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
     ],
     [
-      "KC_V",
-      "KC_B",
       "KC_NO",
       "KC_NO",
-      "LSFT(KC_LBRACKET)"
-    ],
-    [
-      "KC_Y",
-      "KC_U",
       "KC_NO",
       "KC_NO",
-      "LSFT(KC_0)"
-    ],
-    [
-      "KC_H",
-      "KC_J",
-      "KC_NO",
-      "KC_NO",
-      "KC_RBRACKET"
-    ],
-    [
-      "KC_N",
-      "KC_M",
-      "KC_NO",
-      "KC_NO",
-      "LSFT(KC_RBRACKET)"
+      "KC_NO"
     ],
     [
       "KC_NO",
@@ -974,18 +953,39 @@
       "KC_NO"
     ],
     [
-      "KC_L",
-      "KC_SCOLON",
       "KC_NO",
       "KC_NO",
-      "KC_EQUAL"
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
     ],
     [
-      "KC_L",
-      "KC_SCOLON",
-      "KC_LSHIFT",
       "KC_NO",
-      "LSFT(KC_EQUAL)"
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
     ],
     [
       "KC_NO",
