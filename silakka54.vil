@@ -135,19 +135,19 @@
       ],
       [
         "KC_F12",
-        "KC_PSCREEN",
         "KC_END",
         "KC_HOME",
+        "KC_UP",
         "KC_PGDOWN",
         "KC_PGUP"
       ],
       [
-        "KC_TRNS",
+        "KC_PSCREEN",
         "KC_DELETE",
         "KC_RIGHT",
-        "KC_UP",
         "KC_DOWN",
-        "KC_LEFT"
+        "KC_LEFT",
+        "KC_TRNS"
       ],
       [
         "KC_TRNS",
