@@ -53,7 +53,7 @@
       ],
       [
         "KC_BSLASH",
-        "TD(3)",
+        "KC_SCOLON",
         "KC_Y",
         "KC_U",
         "KC_L",
@@ -713,8 +713,8 @@
       200
     ],
     [
-      "KC_SCOLON",
-      "LCTL(KC_SCOLON)",
+      "KC_NO",
+      "KC_NO",
       "KC_NO",
       "KC_NO",
       200
