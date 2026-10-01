@@ -185,11 +185,11 @@
       ],
       [
         "KC_TRNS",
-        "KC_TRNS",
+        "LSFT(KC_6)",
         "LSFT(KC_9)",
         "LSFT(KC_0)",
         "LSFT(KC_MINUS)",
-        "KC_TRNS"
+        "LSFT(KC_4)"
       ],
       [
         "KC_TRNS",
