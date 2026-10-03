@@ -307,10 +307,10 @@
       ],
       [
         "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
+        "KC_RGUI",
+        "KC_LALT",
+        "KC_RCTRL",
+        "KC_LSHIFT",
         "KC_TRNS"
       ],
       [
@@ -922,7 +922,7 @@
       "KC_COMMA",
       "KC_NO",
       "KC_NO",
-      "MO(3)"
+      "OSL(3)"
     ],
     [
       "KC_NO",
