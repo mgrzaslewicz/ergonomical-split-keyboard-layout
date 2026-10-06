@@ -5,11 +5,11 @@
     [
       [
         "TD(1)",
-        "KC_1",
-        "KC_2",
+        "KC_NO",
+        "KC_NO",
         "KC_BSPACE",
-        "KC_4",
-        "KC_5"
+        "KC_NO",
+        "KC_NO"
       ],
       [
         "KC_TAB",
@@ -28,7 +28,7 @@
         "KC_G"
       ],
       [
-        "KC_3",
+        "KC_NO",
         "KC_Z",
         "KC_X",
         "KC_C",
@@ -44,15 +44,15 @@
         "LT1(KC_SPACE)"
       ],
       [
-        "KC_MINUS",
-        "KC_0",
-        "KC_9",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
         "TD(2)",
-        "KC_7",
-        "KC_6"
+        "KC_NO",
+        "KC_NO"
       ],
       [
-        "KC_BSLASH",
+        "KC_NO",
         "KC_SCOLON",
         "KC_Y",
         "KC_U",
@@ -68,7 +68,7 @@
         "KC_M"
       ],
       [
-        "KC_8",
+        "KC_NO",
         "KC_SLASH",
         "KC_DOT",
         "KC_COMMA",
@@ -178,26 +178,26 @@
       [
         "KC_TRNS",
         "LSFT(KC_EQUAL)",
-        "LSFT(KC_LBRACKET)",
-        "LSFT(KC_RBRACKET)",
-        "KC_KP_MINUS",
-        "KC_EQUAL"
+        "KC_LBRACKET",
+        "KC_RBRACKET",
+        "LSFT(KC_MINUS)",
+        "KC_TRNS"
       ],
       [
         "KC_TRNS",
         "LSFT(KC_6)",
-        "LSFT(KC_9)",
-        "LSFT(KC_0)",
-        "LSFT(KC_MINUS)",
-        "LSFT(KC_4)"
+        "LSFT(KC_LBRACKET)",
+        "LSFT(KC_RBRACKET)",
+        "KC_MINUS",
+        "KC_TRNS"
       ],
       [
         "KC_TRNS",
-        "KC_TRNS",
-        "KC_LBRACKET",
-        "KC_RBRACKET",
-        "KC_TRNS",
-        "KC_TRNS"
+        "LSFT(KC_1)",
+        "LSFT(KC_2)",
+        "LSFT(KC_3)",
+        "LSFT(KC_4)",
+        "LSFT(KC_5)"
       ],
       [
         -1,
@@ -217,26 +217,26 @@
       ],
       [
         "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS"
-      ],
-      [
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
+        "KC_EQUAL",
+        "LSFT(KC_DOT)",
+        "LSFT(KC_COMMA)",
         "KC_TRNS",
         "KC_TRNS"
       ],
       [
         "KC_TRNS",
         "KC_TRNS",
+        "LSFT(KC_9)",
+        "LSFT(KC_0)",
         "KC_TRNS",
+        "KC_TRNS"
+      ],
+      [
         "KC_TRNS",
+        "KC_BSLASH",
         "KC_TRNS",
+        "LSFT(KC_8)",
+        "LSFT(KC_7)",
         "KC_TRNS"
       ],
       [
