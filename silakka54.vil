@@ -44,7 +44,7 @@
         "LT1(KC_SPACE)"
       ],
       [
-        "KC_NO",
+        "TD(4)",
         "KC_NO",
         "KC_NO",
         "TD(2)",
@@ -372,7 +372,7 @@
         "KC_SPACE"
       ],
       [
-        "KC_MINUS",
+        "TD(3)",
         "KC_0",
         "KC_9",
         "KC_8",
@@ -380,7 +380,7 @@
         "KC_6"
       ],
       [
-        "TO(0)",
+        "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
@@ -713,15 +713,15 @@
       200
     ],
     [
-      "KC_NO",
-      "KC_NO",
+      "KC_MINUS",
+      "TO(0)",
       "KC_NO",
       "KC_NO",
       200
     ],
     [
       "KC_NO",
-      "KC_NO",
+      "TO(4)",
       "KC_NO",
       "KC_NO",
       200
@@ -925,8 +925,8 @@
       "OSL(3)"
     ],
     [
-      "KC_MINUS",
-      "KC_BSLASH",
+      "KC_SCOLON",
+      "KC_SLASH",
       "KC_NO",
       "KC_NO",
       "TO(4)"
@@ -1633,7 +1633,7 @@
     "4": 175,
     "5": 5,
     "6": 5000,
-    "7": 190,
+    "7": 250,
     "9": 10,
     "10": 20,
     "11": 8,
