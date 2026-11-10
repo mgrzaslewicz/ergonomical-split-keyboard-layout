@@ -226,8 +226,8 @@
       [
         "KC_TRNS",
         "LSFT(KC_SCOLON)",
-        "LSFT(KC_9)",
         "LSFT(KC_0)",
+        "LSFT(KC_9)",
         "KC_TRNS",
         "KC_TRNS"
       ],
@@ -367,7 +367,7 @@
         -1,
         -1,
         -1,
-        "KC_ESCAPE",
+        "KC_LALT",
         "KC_LALT",
         "KC_SPACE"
       ],
@@ -407,7 +407,7 @@
         -1,
         -1,
         -1,
-        "KC_TRNS",
+        "KC_ESCAPE",
         "KC_TRNS",
         "KC_TRNS"
       ]
