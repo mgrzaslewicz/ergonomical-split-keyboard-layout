@@ -234,7 +234,7 @@
       [
         "KC_TRNS",
         "KC_BSLASH",
-        "KC_TRNS",
+        "LSFT(KC_BSLASH)",
         "LSFT(KC_8)",
         "LSFT(KC_7)",
         "KC_TRNS"
